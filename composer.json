@@ -1,0 +1,17 @@
+{
+    "name": "ar835/lesson-3",
+    "autoload": {
+      "psr-4": {
+        "App\\": "src/"
+      }
+    },
+    "authors": [
+        {
+            "name": "xcivs",
+            "email": "vanya.kulig@yandex.ru"
+        }
+    ],
+    "require": {
+        "fakerphp/faker": "^1.24"
+    }
+}
